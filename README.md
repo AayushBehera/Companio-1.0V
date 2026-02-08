@@ -48,7 +48,5 @@ project-root/
 - Firefox 88+
 - Safari 14+
 
-## Credits
-Stock photos: Generated via Antigravity  
-Font: Inter (Google Fonts)  
+## Credits 
 Design: Companio Brand Guidelines 2026
